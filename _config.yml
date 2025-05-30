@@ -7,3 +7,10 @@ url: https://juliebro.github.io/orca-docs/
 
 aux_links:
   API Doc Repository: https://github.com/juliebro/orca-docs/
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
