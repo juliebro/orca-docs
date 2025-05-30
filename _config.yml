@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Orca Sightings Service
+description: A cloud-based RESTful API for including orca whale sightings in the San Juan Islands in your app.
+
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://juliebro.github.io/orca-docs/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  API Doc Repository: https://github.com/juliebro/orca-docs/
