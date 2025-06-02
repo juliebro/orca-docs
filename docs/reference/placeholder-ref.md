@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: API reference
+layout: reference
 ---
 
 # Orca Sightings reference doc placeholder
