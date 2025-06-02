@@ -1,6 +1,6 @@
 ---
 title: API reference
-layout: page
+layout: default
 ---
 
 # Orca Sightings reference doc placeholder
